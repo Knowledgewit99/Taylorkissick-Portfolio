@@ -7,6 +7,8 @@ My plans for using my college degree is to hopefully become a game developer or 
 
 I'm stll learning but explaneding python as a main language 
 
-[![Linkedin Badge] (https://www.linkedin.com/in/taylor-kissick-a254522b7/)
-[![Outlook Badge] (takissick99@outlook.com)
+## contact imformation
+
+(https://www.linkedin.com/in/taylor-kissick-a254522b7/)
+ (takissick99@outlook.com)
 
