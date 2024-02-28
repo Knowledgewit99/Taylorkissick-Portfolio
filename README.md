@@ -5,5 +5,6 @@ Im a student at Ivytech studying for a associate's degree in Software developmen
 
 I'm stll learning but explaneding python as a main language 
 
-[![Linkedin Badge](https://www.linkedin.com/in/taylor-kissick-a254522b7/)
-[![Outlook Badge]
+[![Linkedin Badge] (https://www.linkedin.com/in/taylor-kissick-a254522b7/)
+[![Outlook Badge] (takissick99@outlook.com)
+
